@@ -47,6 +47,9 @@ Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised 
 
 Highlights (all publications: [Google Scholar](https://scholar.google.com/citations?user=L3Rf6kkAAAAJ&hl=en))
 
+- **Proximity-Constrained Counterfactual Decoding for Hallucination-Robust Medical VQA**  
+  Dwarikanath Mahapatra\*, **Abhijit Das**\*, Manish Pandey, Joy Dhar, Sudipta Roy, Zongyuan Ge, Behzad Bozorgtabar, Imran Razzak (\*equal contribution)  
+  <sub>ECCV 2026</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_23)
 - **PROTON: Prototype-Based Test-Time Online OOD Detection for Medical VLMs**  
   **Abhijit Das**, Nichula Wasalathilaka, Yifan Lu, Adinath Dukre, Dwarikanath Mahapatra, Shadab Khan, Imran Razzak  
   <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.20913)
