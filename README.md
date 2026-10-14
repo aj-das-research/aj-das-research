@@ -6,6 +6,7 @@ PhD Student in Machine Learning at MBZUAI
 
 <p>
   <a href="https://aj-das-research.github.io"><img src="https://img.shields.io/badge/Homepage-ff63c3?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+  <a href="https://aj-das-research.github.io/cv.pdf"><img src="https://img.shields.io/badge/CV-3d7aed?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
   <a href="https://scholar.google.com/citations?user=L3Rf6kkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/abhijit-das-b91220233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMiIGhlaWdodD0iOS41IiBmaWxsPSIjMEE2NkMyIi8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi4yIiByPSIxLjgiIGZpbGw9IiMwQTY2QzIiLz48cGF0aCBkPSJNMTAuNSA5LjVoMi45djEuNGMuNS0uOSAxLjYtMS43IDMuMi0xLjcgMi45IDAgMy40IDEuOSAzLjQgNC40VjE5aC0zdi00LjZjMC0xLjEgMC0yLjUtMS42LTIuNXMtMS44IDEuMi0xLjggMi40VjE5aC0zLjF6IiBmaWxsPSIjMEE2NkMyIi8%2BPC9zdmc%2B" alt="LinkedIn"></a>
   <a href="https://huggingface.co/abhijit2k01"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
