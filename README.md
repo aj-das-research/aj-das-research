@@ -48,9 +48,6 @@ Highlights (all publications: [Google Scholar](https://scholar.google.com/citati
 - **Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-Identification**  
   Nichula Wasalathilaka\*, **Abhijit Das**\*, Imran Razzak, Dwarikanath Mahapatra (\*equal contribution)  
   <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.21368)
-- **Ethical Framework for Responsible Foundational Models in Medical Imaging**  
-  Debesh Jha, Gorkem Durak, **Abhijit Das**, Jasmer Sanjotra, Onkar Susladkar, Suramyaa Sarkar, Ashish Rauniyar, et al.  
-  <sub>Frontiers in Medicine 2025</sub> · [paper](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1544501/full)
 - **Confidence-guided Semi-supervised Learning for Generalized Lesion Localization in X-ray Images**  
   **Abhijit Das**, Vandan Gorade, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy  
   <sub>MICCAI 2024</sub> · [paper](https://papers.miccai.org/miccai-2024/154-Paper3485.html) · [code](https://github.com/aj-das-research/AnoMed)
