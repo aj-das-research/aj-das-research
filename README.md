@@ -1,38 +1,70 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="Abhijit Das, PhD in Machine Learning at MBZUAI. Medical Vision-Language Models and Agentic Watermarking." src="./banner-light.svg" width="100%">
-</picture>
+<img align="right" src="https://aj-das-research.github.io/images/profile.jpg" width="130" alt="Abhijit Das">
+
+## Abhijit Das
+
+PhD Student in Machine Learning at MBZUAI
 
 <p>
-  <a href="https://www.abhijitdas.net"><img src="https://img.shields.io/badge/Homepage-24292f?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"></a>
-  <a href="https://scholar.google.com/citations?user=L3Rf6kkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-24292f?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://aj-das-research.github.io"><img src="https://img.shields.io/badge/Homepage-24292f?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+  <a href="https://scholar.google.com/citations?user=L3Rf6kkAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-24292f?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/abhijit-das-b91220233/"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/abhijit2k01"><img src="https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
   <a href="mailto:abhijit.das@mbzuai.ac.ae"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Advised by Imran Razzak and Nils Lukas. I work on AI systems that are reliable enough to trust: medical VLMs that see what they claim to see, and watermarking that traces which agent produced what.
+### Work
 
-#### Selected papers
+Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised by [Prof. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Prof. Nils Lukas](https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en), and co-founder and CTO of [MedOS Limited](https://aj-das-research.github.io/works/medos/). His research has three threads: grounding and reasoning in multimodal LLMs, so that a model's answers can be traced back to the evidence it was given; watermarking AI-generated content; and digital twins. Much of his published work applies these ideas to medical imaging. Before the PhD he was an AI Researcher at GE Healthcare India.
 
-| | |
-|:--|:--|
-| ![](https://img.shields.io/badge/ECCV_2026-0969da?style=flat-square) | Proximity-Constrained Counterfactual Decoding for Hallucination-Robust Medical VQA |
-| ![](https://img.shields.io/badge/MICCAI_2026-0969da?style=flat-square) | PROTON: Prototype-Based Test-Time Online OOD Detection for Medical VLMs |
-| ![](https://img.shields.io/badge/MICCAI_2026-0969da?style=flat-square) | Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-identification |
-| ![](https://img.shields.io/badge/MICCAI_2026-0969da?style=flat-square) | Counterfactual Anatomy-Guided Spatial-Temporal Decoding for Annotation-Free Hallucination Mitigation in Medical VLMs |
-| ![](https://img.shields.io/badge/MICCAI_2024-6e7781?style=flat-square) | Confidence-Guided Semi-Supervised Learning for Generalized Lesion Localization in X-ray Images |
+### Bio
 
-#### Tools
+- **2026 to 2029** &nbsp; PhD student, MBZUAI
+- **2026 to present** &nbsp; Co-founder and CTO, MedOS Limited
+- **Prior** &nbsp; AI Researcher, GE Healthcare India
+
+### Interests
+
+`Grounding and Reasoning in Multimodal LLMs` &nbsp; `Watermarking AI Generated Content` &nbsp; `Digital Twins`
+
+### Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/aj-das-research/SegEvalKit"><b>SegEvalKit</b></a><br>
-<sub>Evaluation for volumetric CT/MR segmentation. 53 metrics with explicit, tested conventions, statistics and reports.</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/aj-das-research/shapekit-pro"><b>ShapeKit-Pro</b></a><br>
-<sub>Anatomy-aware repair of vertebra labels in CT segmentations. CPU-only, never deletes real bone.</sub>
-</td>
+<td width="33%" align="center" valign="top"><a href="https://aj-das-research.github.io/works/grounding-reasoning/"><img src="https://aj-das-research.github.io/images/works/grounding_eyecatch.png" alt="Grounding and Reasoning in Multimodal LLMs" width="100%"></a><br><sub><b>Grounding and Reasoning in Multimodal LLMs</b></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://aj-das-research.github.io/works/watermarking/"><img src="https://aj-das-research.github.io/images/works/watermarking_eyecatch.png" alt="Watermarking AI Generated Content" width="100%"></a><br><sub><b>Watermarking AI Generated Content</b></sub></td>
+<td width="33%" align="center" valign="top"><a href="https://aj-das-research.github.io/works/digital-twins/"><img src="https://aj-das-research.github.io/images/works/digitaltwins_eyecatch.png" alt="Digital Twins" width="100%"></a><br><sub><b>Digital Twins</b></sub></td>
 </tr>
 </table>
+
+**Venture:** [MedOS Limited](https://aj-das-research.github.io/works/medos/), medical agentic AI solutions.
+
+### Publications
+
+Highlights (all publications: [Google Scholar](https://scholar.google.com/citations?user=L3Rf6kkAAAAJ&hl=en))
+
+- **PROTON: Prototype-Based Test-Time Online OOD Detection for Medical VLMs**  
+  **Abhijit Das**, Nichula Wasalathilaka, Yifan Lu, Adinath Dukre, Dwarikanath Mahapatra, Shadab Khan, Imran Razzak  
+  <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.20913)
+- **Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-Identification**  
+  Nichula Wasalathilaka\*, **Abhijit Das**\*, Imran Razzak, Dwarikanath Mahapatra (\*equal contribution)  
+  <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.21368)
+- **Ethical Framework for Responsible Foundational Models in Medical Imaging**  
+  Debesh Jha, Gorkem Durak, **Abhijit Das**, Jasmer Sanjotra, Onkar Susladkar, Suramyaa Sarkar, Ashish Rauniyar, et al.  
+  <sub>Frontiers in Medicine 2025</sub> · [paper](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2025.1544501/full)
+- **Confidence-guided Semi-supervised Learning for Generalized Lesion Localization in X-ray Images**  
+  **Abhijit Das**, Vandan Gorade, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy  
+  <sub>MICCAI 2024</sub> · [paper](https://papers.miccai.org/miccai-2024/154-Paper3485.html) · [code](https://github.com/aj-das-research/AnoMed)
+- **ProFONet: Prototypical Feature Space Optimized Network for Few-shot Classification**  
+  **Abhijit Das**, Vandan Gorade, Debesh Jha, Koushik Biswas, Pethuru Raj, Ulas Bagci  
+  <sub>ICPR 2024</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_25) · [code](https://github.com/aj-das-research/ProFONet)
+- **SEANet: Rethinking Skip-Connections Design in Encoder-Decoder Networks via Synergistic Spatial-Spectral Fusion for LDCT Denoising**  
+  **Abhijit Das**, Vandan Gorade, Dwarikanath Mahapatra, Sudipta Roy  
+  <sub>ICPR 2024</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_29) · [code](https://github.com/aj-das-research/SEANet)
+- **PAM-UNet: Shifting Attention on Region of Interest in Medical Images**  
+  **Abhijit Das**, Debesh Jha, Vandan Gorade, Koushik Biswas, Hongyi Pan, Zheyuan Zhang, Daniela P. Ladner, Yury Velichko, Amir Borhani, Ulas Bagci  
+  <sub>IEEE EMBC 2024</sub> · [paper](https://arxiv.org/abs/2405.01503)
+- **Enhancing Colonoscopy Outcomes with DAPoDet-based AI for Real-time Sessile Serrated Polyp Detection**  
+  **Abhijit Das**, Debesh Jha, Nikhil Tomar, Neethi Dasu, Mark Geissler, Dayang Wang, Mena Bakhit, Kirti Dasu, Tyler Berzin, Ulas Bagci  
+  <sub>DDW 2024 · Conference abstract</sub> · [paper](https://www.giejournal.org/article/S0016-5107(24)00898-8/fulltext)
+
+<sub>Mirrors [aj-das-research.github.io](https://aj-das-research.github.io).</sub>
