@@ -15,6 +15,13 @@ PhD Student in Machine Learning at MBZUAI
 Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised by [Prof. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Prof. Nils Lukas](https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en), and co-founder and CTO of [MedOS Limited](https://aj-das-research.github.io/works/medos/). His research has three threads: grounding and reasoning in multimodal LLMs, so that a model's answers can be traced back to the evidence it was given; watermarking AI-generated content; and digital twins. Much of his published work applies these ideas to medical imaging. Before the PhD he was an AI Researcher at GE Healthcare India.
 
 <p>
+<b>News</b><br>
+4 papers accepted at <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>, Strasbourg, France<br>
+1 paper accepted at <a href="https://eccv.ecva.net/">ECCV 2026</a>, Malmö, Sweden<br>
+1 paper accepted at <a href="https://2026.emnlp.org/">EMNLP 2026 (Main Conference)</a>, Budapest, Hungary
+</p>
+
+<p>
 <b>Bio</b><br>
 <b>2026 to 2029</b> &nbsp;PhD student, MBZUAI<br>
 <b>2026 to present</b> &nbsp;Co-founder and CTO, MedOS Limited<br>
