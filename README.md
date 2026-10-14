@@ -68,8 +68,5 @@ Highlights (all publications: [Google Scholar](https://scholar.google.com/citati
 - **PAM-UNet: Shifting Attention on Region of Interest in Medical Images**  
   **Abhijit Das**, Debesh Jha, Vandan Gorade, Koushik Biswas, Hongyi Pan, Zheyuan Zhang, Daniela P. Ladner, Yury Velichko, Amir Borhani, Ulas Bagci  
   <sub>IEEE EMBC 2024</sub> · [paper](https://arxiv.org/abs/2405.01503)
-- **Enhancing Colonoscopy Outcomes with DAPoDet-based AI for Real-time Sessile Serrated Polyp Detection**  
-  **Abhijit Das**, Debesh Jha, Nikhil Tomar, Neethi Dasu, Mark Geissler, Dayang Wang, Mena Bakhit, Kirti Dasu, Tyler Berzin, Ulas Bagci  
-  <sub>DDW 2024 · Conference abstract</sub> · [paper](https://www.giejournal.org/article/S0016-5107(24)00898-8/fulltext)
 
 <sub>Mirrors [aj-das-research.github.io](https://aj-das-research.github.io).</sub>
