@@ -17,7 +17,6 @@ Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised 
 
 <p>
 <b>News</b><br>
-Started research collaborations with <a href="https://www.pranavrajpurkar.com/">Prof. Pranav Rajpurkar</a> (Harvard Medical School) and <a href="https://www.zongweiz.com/">Prof. Zongwei Zhou</a> (Johns Hopkins University)<br>
 4 papers accepted at <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>, Strasbourg, France<br>
 1 paper accepted at <a href="https://eccv.ecva.net/">ECCV 2026</a>, Malmö, Sweden<br>
 1 paper accepted at <a href="https://2026.emnlp.org/">EMNLP 2026 (Main Conference)</a>, Budapest, Hungary
@@ -26,9 +25,9 @@ Started research collaborations with <a href="https://www.pranavrajpurkar.com/">
 <p>
 <b>Bio</b><br>
 <b>2026 to 2029</b> &nbsp;PhD student, MBZUAI<br>
-<b>2026 to present</b> &nbsp;Co-founder and CTO, MedOS Limited<br>
-<b>2026 to present</b> &nbsp;Research collaboration, Harvard Medical School<br>
-<b>2026 to present</b> &nbsp;Research collaboration, Johns Hopkins University<br>
+<b>2026 to present</b> &nbsp;Co-founder and CTO, <a href="https://medos.tech/">MedOS Limited</a>, UAE<br>
+<b>2026 to present</b> &nbsp;Research collaboration with <a href="https://www.pranavrajpurkar.com/">Prof. Pranav Rajpurkar</a>, HMS<br>
+<b>2026 to present</b> &nbsp;Research collaboration with <a href="https://www.zongweiz.com/">Prof. Zongwei Zhou</a>, JHU<br>
 <b>Prior</b> &nbsp;AI Researcher, GE Healthcare India
 </p>
 
