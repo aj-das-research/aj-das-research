@@ -13,10 +13,11 @@ PhD Student in Machine Learning at MBZUAI
   <a href="mailto:abhijit.das@mbzuai.ac.ae"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised by [Prof. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Prof. Nils Lukas](https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en), and co-founder and CTO of [MedOS Limited](https://aj-das-research.github.io/works/medos/). His research has three threads: grounding and reasoning in multimodal LLMs, so that a model's answers can be traced back to the evidence it was given; watermarking AI-generated content; and digital twins. Much of his published work applies these ideas to medical imaging. Before the PhD he was an AI Researcher at GE Healthcare India.
+Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised by [Prof. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Prof. Nils Lukas](https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en), and co-founder and CTO of [MedOS Limited](https://aj-das-research.github.io/works/medos/). He also collaborates with [Prof. Pranav Rajpurkar](https://www.pranavrajpurkar.com/) at Harvard Medical School on interleaved grounded reasoning with vision-language models for general medical image understanding, and with [Prof. Zongwei Zhou](https://www.zongweiz.com/) at Johns Hopkins University on evaluating 3D segmentation methods and on weakly supervised pretraining for promptable and interactive segmentation. His research has three threads: grounding and reasoning in multimodal LLMs, so that a model's answers can be traced back to the evidence it was given; watermarking AI-generated content; and digital twins. Much of his published work applies these ideas to medical imaging. Before the PhD he was an AI Researcher at GE Healthcare India.
 
 <p>
 <b>News</b><br>
+Started research collaborations with <a href="https://www.pranavrajpurkar.com/">Prof. Pranav Rajpurkar</a> (Harvard Medical School) and <a href="https://www.zongweiz.com/">Prof. Zongwei Zhou</a> (Johns Hopkins University)<br>
 4 papers accepted at <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>, Strasbourg, France<br>
 1 paper accepted at <a href="https://eccv.ecva.net/">ECCV 2026</a>, Malmö, Sweden<br>
 1 paper accepted at <a href="https://2026.emnlp.org/">EMNLP 2026 (Main Conference)</a>, Budapest, Hungary
@@ -26,6 +27,8 @@ Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised 
 <b>Bio</b><br>
 <b>2026 to 2029</b> &nbsp;PhD student, MBZUAI<br>
 <b>2026 to present</b> &nbsp;Co-founder and CTO, MedOS Limited<br>
+<b>2026 to present</b> &nbsp;Research collaboration, Harvard Medical School<br>
+<b>2026 to present</b> &nbsp;Research collaboration, Johns Hopkins University<br>
 <b>Prior</b> &nbsp;AI Researcher, GE Healthcare India
 </p>
 
