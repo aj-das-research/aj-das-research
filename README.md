@@ -1,6 +1,6 @@
 <img align="right" src="https://aj-das-research.github.io/images/profile.jpg" width="130" alt="Abhijit Das">
 
-## Abhijit Das
+### Abhijit Das
 
 PhD Student in Machine Learning at MBZUAI
 
@@ -12,21 +12,21 @@ PhD Student in Machine Learning at MBZUAI
   <a href="mailto:abhijit.das@mbzuai.ac.ae"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-### Work
+#### Work
 
 Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised by [Prof. Imran Razzak](https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en) and [Prof. Nils Lukas](https://scholar.google.com/citations?user=fmlEab4AAAAJ&hl=en), and co-founder and CTO of [MedOS Limited](https://aj-das-research.github.io/works/medos/). His research has three threads: grounding and reasoning in multimodal LLMs, so that a model's answers can be traced back to the evidence it was given; watermarking AI-generated content; and digital twins. Much of his published work applies these ideas to medical imaging. Before the PhD he was an AI Researcher at GE Healthcare India.
 
-### Bio
+#### Bio
 
 - **2026 to 2029** &nbsp; PhD student, MBZUAI
 - **2026 to present** &nbsp; Co-founder and CTO, MedOS Limited
 - **Prior** &nbsp; AI Researcher, GE Healthcare India
 
-### Interests
+#### Interests
 
 `Grounding and Reasoning in Multimodal LLMs` &nbsp; `Watermarking AI Generated Content` &nbsp; `Digital Twins`
 
-### Projects
+#### Projects
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ Abhijit is a PhD student in Machine Learning at MBZUAI in Abu Dhabi, supervised 
 
 **Venture:** [MedOS Limited](https://aj-das-research.github.io/works/medos/), medical agentic AI solutions.
 
-### Publications
+#### Publications
 
 Highlights (all publications: [Google Scholar](https://scholar.google.com/citations?user=L3Rf6kkAAAAJ&hl=en))
 
