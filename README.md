@@ -59,14 +59,8 @@ Highlights (all publications: [Google Scholar](https://scholar.google.com/citati
 - **Confidence-guided Semi-supervised Learning for Generalized Lesion Localization in X-ray Images**  
   **Abhijit Das**, Vandan Gorade, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy  
   <sub>MICCAI 2024</sub> · [paper](https://papers.miccai.org/miccai-2024/154-Paper3485.html) · [code](https://github.com/aj-das-research/AnoMed)
-- **ProFONet: Prototypical Feature Space Optimized Network for Few-shot Classification**  
-  **Abhijit Das**, Vandan Gorade, Debesh Jha, Koushik Biswas, Pethuru Raj, Ulas Bagci  
-  <sub>ICPR 2024</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-031-78183-4_25) · [code](https://github.com/aj-das-research/ProFONet)
 - **SEANet: Rethinking Skip-Connections Design in Encoder-Decoder Networks via Synergistic Spatial-Spectral Fusion for LDCT Denoising**  
   **Abhijit Das**, Vandan Gorade, Dwarikanath Mahapatra, Sudipta Roy  
   <sub>ICPR 2024</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_29) · [code](https://github.com/aj-das-research/SEANet)
-- **PAM-UNet: Shifting Attention on Region of Interest in Medical Images**  
-  **Abhijit Das**, Debesh Jha, Vandan Gorade, Koushik Biswas, Hongyi Pan, Zheyuan Zhang, Daniela P. Ladner, Yury Velichko, Amir Borhani, Ulas Bagci  
-  <sub>IEEE EMBC 2024</sub> · [paper](https://arxiv.org/abs/2405.01503)
 
 <sub>Mirrors [aj-das-research.github.io](https://aj-das-research.github.io).</sub>
