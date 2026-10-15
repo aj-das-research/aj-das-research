@@ -54,7 +54,7 @@ Highlights (all publications: [Google Scholar](https://scholar.google.com/citati
   <sub>ECCV 2026</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-032-37335-9_23)
 - **PROTON: Prototype-Based Test-Time Online OOD Detection for Medical VLMs**  
   **Abhijit Das**, Nichula Wasalathilaka, Yifan Lu, Adinath Dukre, Dwarikanath Mahapatra, Shadab Khan, Imran Razzak  
-  <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.20913)
+  <sub>MICCAI 2026</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_49) · [arXiv](https://arxiv.org/abs/2606.20913) · [code](https://github.com/aj-das-research/PROTON) · [project page](https://aj-das-research.github.io/PROTON/) · [demo](https://aj-das-research.github.io/PROTON/demo/) · [data](https://huggingface.co/datasets/abhijit2k01/proton-benchmarks)
 - **Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-Identification**  
   Nichula Wasalathilaka\*, **Abhijit Das**\*, Imran Razzak, Dwarikanath Mahapatra (\*equal contribution)  
   <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.21368)
