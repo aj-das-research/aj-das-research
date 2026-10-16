@@ -57,7 +57,7 @@ Highlights (all publications: [Google Scholar](https://scholar.google.com/citati
   <sub>MICCAI 2026</sub> · [paper](https://link.springer.com/chapter/10.1007/978-3-032-38062-3_49) · [arXiv](https://arxiv.org/abs/2606.20913) · [code](https://github.com/aj-das-research/PROTON) · [project page](https://aj-das-research.github.io/PROTON/)
 - **Graph-of-Differences: Anatomy-Structured Difference Alignment for Medical Image Re-Identification**  
   Nichula Wasalathilaka\*, **Abhijit Das**\*, Imran Razzak, Dwarikanath Mahapatra (\*equal contribution)  
-  <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.21368)
+  <sub>MICCAI 2026</sub> · [paper](https://arxiv.org/abs/2606.21368) · [code](https://github.com/aj-das-research/GoD-miccai)
 - **Confidence-guided Semi-supervised Learning for Generalized Lesion Localization in X-ray Images**  
   **Abhijit Das**, Vandan Gorade, Komal Kumar, Snehashis Chakraborty, Dwarikanath Mahapatra, Sudipta Roy  
   <sub>MICCAI 2024</sub> · [paper](https://papers.miccai.org/miccai-2024/154-Paper3485.html) · [code](https://github.com/aj-das-research/AnoMed)
